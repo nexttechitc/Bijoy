@@ -12,6 +12,7 @@ public class EcommerceUtility {
 	
 	public static long implicitlyWait = 30;
 	public static long pageLoadTimeout = 30;
+	public static long Example = 30;
 	
 public static void takeMyScreenshot(WebDriver driver, String screenshot) {
 		
